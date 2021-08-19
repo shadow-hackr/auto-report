@@ -1,6 +1,6 @@
 #-*-coding:utf-8-*-
-# Fb Mass Reports Account
-# Created By Deray
+# Fb cracking Reports Account
+# Created By Kashmiri hacker
 
 import bs4
 import json
